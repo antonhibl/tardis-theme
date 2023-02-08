@@ -11,3 +11,4 @@ fonts to achieve a nice clean look. I named this after the Tardis because I like
 Dr. Who and was watching it when I made this theme. Please give credit if you
 choose to share this theme, thank you and enjoy!
 
+![tardis theme example image](./tardis-theme.jpg)
