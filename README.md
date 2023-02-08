@@ -1,7 +1,5 @@
-#+TITLE: The Tardis Theme for Emacs
-#+AUTHOR: Anton Hibl
-
-* The Tardis Theme
+# The Tardis Theme for Emacs
+**Author:** *Anton Hibl*
 
 I made this theme pretty much just for personal use but figured I would post it
 to github for others as I know it was frustrating that I couldn't find another
