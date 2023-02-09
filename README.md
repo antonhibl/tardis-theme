@@ -10,3 +10,16 @@ Dr. Who and was watching it when I made this theme. Please give credit if you
 choose to share this theme, thank you and enjoy!
 
 ![tardis theme example image](./tardis-theme.jpg)
+
+# Installation
+
+[//]: # If you use MELPA, just do:
+
+[//]: # M-x package-install [RET] tardis-theme [RET]
+
+While this is waiting to merge into MELPA, put tardis-theme.el in either the
+custom-theme-directory or load-path.
+
+You can then apply the theme via M-x customize-themes, or make it the default by adding the following to your Emacs configuration:
+
+   (load-theme 'tardis t)
