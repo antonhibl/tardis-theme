@@ -1,10 +1,15 @@
-;;; tardis-theme.el --- Quantum Country Theme
+;;; tardis-theme.el --- Quantum Country Theme -*- lexical-binding: t; -*-
 
 ;; Author: cthulhu
 ;; Version: 1.0.0
+;; Package-Requires: ((emacs "25.1"))
+
+
+;;; Commentary:
+;; 
 
 ;;; Code:
-(deftheme tardis "A color theme inspiviolet by the quantum.country website")
+(deftheme tardis "A color theme inspiviolet by the quantum.country website.")
 
 ;;;; Configuration options:
 
