@@ -1,16 +1,32 @@
 ;;; tardis-theme.el --- Quantum Country Theme -*- lexical-binding: t; -*-
 
-;; Author: cthulhu
-;; URL: https://www.github.com/antonhibl/tardis-theme
-;; Version: 1.0.0
-;; Package-Requires: ((emacs "25.1"))
+;; Copyright (C) 2023 Hibl, Anton
 
+;; Author: Anton Hibl <antonhibl11@gmail.com>
+;; URL: https://github.com/antonhibl/tardis-theme
+;; Keywords: convenience
+;; Version: 0.1.0
+
+;; This program is free software; you can redistribute it and/or modify
+;; it under the terms of the GNU General Public License as published by
+;; the Free Software Foundation, either version 3 of the License, or
+;; (at your option) any later version.
+
+;; This program is distributed in the hope that it will be useful,
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+;; GNU General Public License for more details.
+
+;; You should have received a copy of the GNU General Public License
+;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ;;; Commentary:
-;;  light color theme for emacs
+;;  light color theme for emacs inspired by quantum.country and the Doctor.
+
+;; See the accompanying Readme.org for configuration details.
 
 ;;; Code:
-(deftheme tardis "A color theme inspiviolet by the quantum.country website.")
+(deftheme tardis "A color theme inspired by the quantum.country website.")
 
 ;;;; Configuration options:
 
@@ -867,9 +883,4 @@ read it before opening a new issue about your will.")
                (file-name-as-directory (file-name-directory load-file-name))))
 
 (provide-theme 'tardis)
-
-;; Local Variables:
-;; indent-tabs-mode: nil
-;; End:
-
 ;;; tardis-theme.el ends here
