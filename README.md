@@ -13,9 +13,9 @@ choose to share this theme, thank you and enjoy!
 
 # Installation
 
-[//]: # If you use MELPA, just do:
+If you use MELPA, just do:
 
-[//]: # M-x package-install [RET] tardis-theme [RET]
+M-x `package-install` [RET] `tardis-theme` [RET]
 
 While this is waiting to merge into MELPA, put tardis-theme.el in either the
 custom-theme-directory or load-path.
