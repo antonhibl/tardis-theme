@@ -6,6 +6,7 @@
 ;; URL: https://github.com/antonhibl/tardis-theme
 ;; Keywords: convenience
 ;; Version: 0.1.0
+;; Package-Requires: ((emacs "25.1"))
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -21,7 +22,7 @@
 ;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ;;; Commentary:
-;;  light color theme for emacs inspired by quantum.country and the Doctor.
+;;  light color theme for Emacs inspired by quantum.country and the Doctor.
 
 ;; See the accompanying Readme.org for configuration details.
 
