@@ -1,6 +1,8 @@
 # The Tardis Theme for Emacs
 **Author:** *Anton Hibl*
 
+[[https://melpa.org/#/tardis-theme][file:https://melpa.org/packages/tardis-theme-badge.svg]]
+
 I made this theme pretty much just for personal use but figured I would post it
 to github for others as I know it was frustrating that I couldn't find another
 theme like it. It was inspired by the https://quantum.country website which uses an
